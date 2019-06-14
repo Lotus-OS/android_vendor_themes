@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (c) 2018, The LineageOS Project
-    Copyright (c) 2019, The PixelExperience Project
     Copyright (c) 2019, The Evolution X Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,11 +15,11 @@
     limitations under the License.
 -->
 <resources>
-    <color name="accent_device_default_700">#202020</color>
-    <color name="accent_device_default_dark">#202020</color>
-    <color name="accent_device_default_light">#202020</color>
-    <color name="material_deep_teal_200">#202020</color>
-    <color name="material_deep_teal_500">#202020</color>
-    <color name="notification_icon_bg_color">#202020</color>
-    <color name="system_notification_accent_color">#202020</color>
+    <color name="accent_device_default_700">#47618a</color>
+    <color name="accent_device_default_dark">#47618a</color>
+    <color name="accent_device_default_light">#47618a</color>
+    <color name="material_deep_teal_200">#47618a</color>
+    <color name="material_deep_teal_500">#47618a</color>
+    <color name="notification_icon_bg_color">#47618a</color>
+    <color name="system_notification_accent_color">#47618a</color>
 </resources>

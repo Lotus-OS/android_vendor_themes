@@ -12,4 +12,11 @@
     <string name="accent_purple">Purple</string>
     <string name="accent_red">Red</string>
     <string name="accent_yellow">Yellow</string>
+    <string name="accent_pixel_blue">Pixel Blue</string>
+
+    <!-- Android Q Accent colors -->
+    <string name="accent_q_cinnamon">Cinnamon</string>
+    <string name="accent_q_ocean">Ocean</string>
+    <string name="accent_q_orchid">Orchid</string>
+    <string name="accent_q_space">Space</string>
 </resources>

@@ -61,6 +61,14 @@ PRODUCT_PACKAGES += \
     LimedGreen \
     SunsetOrange \
     UiGradientsDIMIGO
+    PixelBlueAccent
+
+# Android Q Color accents
+PRODUCT_PACKAGES += \
+    QCinnamonAccent \
+    QOceanAccent \
+    QOrchidAccent \
+    QSpaceAccent
 
 # QS tile styles
 PRODUCT_PACKAGES += \
