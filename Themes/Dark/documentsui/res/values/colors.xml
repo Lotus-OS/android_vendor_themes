@@ -15,18 +15,18 @@
 -->
 
 <resources>
-    <color name="accent">@*android:color/accent_device_default_light</color>
-    <color name="primary_dark">#ff1e1f22</color>
-    <color name="tool_bar_color">#ff1e1f22</color>
-    <color name="window_background">#ff1e1f22</color>
-    <color name="drawer_background">#ff1e1f22</color>
-    <color name="drawer_border">#ff1e1f22</color>
-    <color name="directory_background">#ff1e1f22</color>
+    <color name="accent">@*android:color/accent_device_default_dark</color>
+    <color name="primary_dark">#ff202124</color>
+    <color name="tool_bar_color">#ff202124</color>
+    <color name="window_background">#ff202124</color>
+    <color name="drawer_background">#ff202124</color>
+    <color name="drawer_border">#ff202124</color>
+    <color name="directory_background">#ff202124</color>
 
     <color name="text_cursor">@*android:color/black</color>
 
-    <color name="band_select_background">#ff1e1f22</color>
-    <color name="band_select_border">#ff1e1f22</color>
+    <color name="band_select_background">#ff202124</color>
+    <color name="band_select_border">#ff202124</color>
 
     <color name="root_title_color">#deffffff</color>
     <color name="root_details_color">#8affffff</color>
@@ -43,7 +43,7 @@
     <color name="item_doc_title">#ffcccccc</color>
     <color name="item_doc_title_disabled">@*android:color/secondary_text_default_material_dark</color>
     <color name="item_doc_details">#ffcccccc</color>
-    <color name="item_doc_background">#ff1e1f22</color>
+    <color name="item_doc_background">#ff202124</color>
     <color name="item_doc_background_disabled">#151618</color>
     <color name="item_breadcrumb_background_hovered">#1affffff</color>
     <color name="item_doc_droppable_background">#ff170f04</color>

@@ -17,7 +17,7 @@
 
 <resources>
 
-    <color name="search_panel_background">@*android:color/primary_device_default_dark</color>
-    <color name="search_panel_foreground">#ff313235</color>
+    <color name="search_panel_background">#3c4043</color>
+    <color name="search_panel_foreground">#3c4043</color>
 
 </resources>
