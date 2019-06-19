@@ -117,15 +117,10 @@ PRODUCT_PACKAGES += \
     MD2Switch \
     OnePlusSwitch \
     StockSwitch \
-    SwitchOne \
-    SwitchTwo \
-    SwitchThree \
-    SwitchFour \
-    SwitchFive \
-    SwitchSix \
-    SwitchSeven \
-    SwitchEight \
-    SwitchNine
+    Contained \
+    Retro \
+    Stockish \
+    Narrow
 
 # Fonts to copy
 PRODUCT_COPY_FILES += \
