@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := AccentMoveMint
+LOCAL_PACKAGE_NAME := MoveMint
 LOCAL_SDK_VERSION := current
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := false

@@ -1,6 +1,6 @@
 PRODUCT_PACKAGES += \
     FaceLockDark \
-	ContactsThemeBlack \
+    ContactsThemeBlack \
     DialerThemeBlack \
     ContactsThemeDark \
     DialerThemeDark \
@@ -30,65 +30,36 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
-	AccentAmber \
-    AccentBlack \
-    AccentBlue \
-    AccentBlueGrey \
-    AccentBrown \
-    AccentCandyRed \
-    AccentCyan \
-    AccentDeepOrange \
-    AccentDeepPurple \
-    AccentExtendedGreen \
-    AccentGreen \
-    AccentGrey \
-    AccentIndigo \
-    AccentJadeGreen \
-    AccentLightBlue \
-    AccentLightGreen \
-    AccentLime \
-    AccentOrange \
-    AccentPaleBlue \
-    AccentPaleRed \
-    AccentPink \
-    AccentPurple \
-    AccentRed \
-    AccentTeal \
-    AccentYellow \
-    AccentWhite \
-    AccentUserOne \
-    AccentUserTwo \
-    AccentUserThree \
-    AccentUserFour \
-    AccentUserFive \
-    AccentUserSix \
-    AccentUserSeven \
-    AccentUserEight \
-    AccentUserNine \
-    AccentObfusBleu \
-    AccentNotImpPurple \
-    AccentHolillusion \
-    AccentMoveMint \
-    AccentFootprintPurple \
-    AccentBubblegumPink \
-    AccentFrenchBleu \
-    AccentStock \
-    AccentManiaAmber \
-    AccentSeasideMint \
-    AccentDreamyPurple \
-    AccentSpookedPurple \
-    AccentHeirloomBleu \
-    AccentTruFilPink \
-    AccentWarmthOrange \
-    AccentColdBleu \
-    AccentDiffDayGreen \
-    AccentDuskPurple \
-    AccentBurningRed \
-    AccentHazedPink \
-    AccentColdYellow \
-    AccentNewHouseOrange \
-    AccentIllusionsPurple \
-    AccentOnePlusRed
+    ObfusBleu \
+    NotImpPurple \
+    Holillusion \
+    MoveMint \
+    AlmostProBlue \
+    BubblegumPink \
+    FrenchBleu \
+    Stock \
+    ManiaAmber \
+    DrownedAquaBlue \
+    BoucheRed \
+    DreamyPurple \
+    GrapesPurple \
+    SpookedPurple \
+    MisleadingRed \
+    FSRGrey \
+    HeirloomBleu \
+    LunaBlue \
+    WarmthOrange \
+    NaturedGreen \
+    ColdBleu \
+    DiffDayGreen \
+    DuskPurple \
+    BurningRed \
+    SimilarDawnRed \
+    SpoofyGreen \
+    NewHouseOrange \
+    LimedGreen \
+    SunsetOrange \
+    UiGradientsDIMIGO
 
 # QS tile styles
 PRODUCT_PACKAGES += \
@@ -119,7 +90,7 @@ PRODUCT_PACKAGES += \
     QStileGear \
     QStileStar \
     QStileBadge \
-	QStileNeonlike \
+    QStileNeonlike \
     QStileOOS \
     QStileTriangles \
     QStileDivided \
