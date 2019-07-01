@@ -1,5 +1,9 @@
 PRODUCT_PACKAGES += \
     FaceLockDark \
+	ContactsThemeBlack \
+    DialerThemeBlack \
+    ContactsThemeDark \
+    DialerThemeDark \
     SettingsIntelligenceDark \
     SystemDark \
     SystemBlack \
