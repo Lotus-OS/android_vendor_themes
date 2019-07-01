@@ -95,7 +95,8 @@ PRODUCT_PACKAGES += \
     QStileOOS \
     QStileTriangles \
     QStileDivided \
-    QStileCosmos
+    QStileCosmos \
+    QStileRoundedRect
 
 # QS header styles
 PRODUCT_PACKAGES += \
