@@ -135,7 +135,7 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/gobold/GoboldThinLight-Italic.ttf:system/fonts/GoboldThinLight-Italic.ttf \
     vendor/themes/fonts/roadrage/road_rage.ttf:system/fonts/RoadRage-Regular.ttf \
     vendor/themes/fonts/snowstorm/snowstorm.ttf:system/fonts/Snowstorm-Regular.ttf \
-    vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableClock-Regular.ttf \
+    vendor/themes/fonts/vcrosd/vcr_osd_mono.ttf:system/fonts/ThemeableClock-vcrosd.ttf \
     vendor/themes/fonts/fontage/AdamCGPro-Regular.ttf:system/fonts/AdamCGPro-Regular.ttf \
     vendor/themes/fonts/fontage/AlexanaNeue-Regular.ttf:system/fonts/AlexanaNeue-Regular.ttf \
     vendor/themes/fonts/fontage/AlienLeague-Regular.ttf:system/fonts/AlienLeague-Regular.ttf \
