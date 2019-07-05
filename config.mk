@@ -4,6 +4,7 @@ PRODUCT_PACKAGES += \
     DialerThemeBlack \
     ContactsThemeDark \
     DialerThemeDark \
+    SettingsDark \
     SettingsIntelligenceDark \
     SystemDark \
     SystemBlack \
