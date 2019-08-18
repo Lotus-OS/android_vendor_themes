@@ -60,7 +60,7 @@ PRODUCT_PACKAGES += \
     NewHouseOrange \
     LimedGreen \
     SunsetOrange \
-    UiGradientsDIMIGO
+    UiGradientsDIMIGO \
     PixelBlueAccent
 
 # Android Q Color accents
