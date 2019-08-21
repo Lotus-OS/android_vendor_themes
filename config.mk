@@ -10,9 +10,6 @@ PRODUCT_PACKAGES += \
     SystemBlack \
     SystemUIDark \
     SystemUIBlack \
-    GBoardDark \
-    GBoardLight \
-    WellbeingTheme \
     DocumentsUIDark \
     DocumentsUIBlack \
     UpdatesDark \
